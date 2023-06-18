@@ -1,7 +1,7 @@
 transformers
 transformers[sentencepiece]
 datasets
-sacrebleu 
+sacrebleu #used to get row matrix for text summarization
 rouge_score 
 py7zr
 pandas
